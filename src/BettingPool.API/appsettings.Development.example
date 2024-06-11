@@ -1,0 +1,15 @@
+{
+  "ConnectionStrings": {
+    "projectsDB": "Host=localhost;Port=1;Database=example;Username=example;Password=example"
+  },
+  "Jwt": {
+    "Issuer": "Issuer.Example",
+    "Audience": "Audience.Example",
+    "SecretKey": ""
+  },
+  "EmailOptions": {
+    "FromName": "",
+    "FromEmail": "",
+    "ApiKey": ""
+  }
+}
